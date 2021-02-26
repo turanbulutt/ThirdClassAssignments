@@ -1,0 +1,15 @@
+Senior;1;Turan;m;27/10/1998;20/10/2020;50000
+Junior;2;Furkan;m;06/07/2003;27/10/2019;654;27/10/2029
+Senior;3;Fatos;f;10/11/1971;16/05/2020;564
+
+Customer;4;Deniz;m;10/11/2020;06/09/1998;456498
+Customer;5;Javid;m;11/11/2020;15/08/2000;3248
+Customer;6;Rumessa;f;12/11/2020;29/03/1999;46832
+
+Booking;0;11/11/2020;1
+Booking;1;12/11/2020;1
+Booking;2;13/11/2020;1
+
+Online;0;1;11/11/2020;adana kebab;extra hot;3;1
+InRestr;1;2;12/11/2020;manti;with yogurt;1;0
+Online;2;3;13/11/2020;icli kofte;4 pieces;3;1

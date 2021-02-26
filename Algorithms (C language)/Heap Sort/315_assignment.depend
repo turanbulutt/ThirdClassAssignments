@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605557692 source:c:\users\turan\desktop\315_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605820900 source:d:\315_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

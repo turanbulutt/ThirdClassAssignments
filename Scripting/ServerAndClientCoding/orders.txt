@@ -1,0 +1,13 @@
+Customer: 2; Meal: Burger(25TL);Cakes: Strawberry Cake;Price: 43;19/1/2021 11:23
+Customer: 23; Meal: Pizza(30TL);Cakes: Chocolate Cake,Strawberry Cake;Price: 68;19/1/2021 11:30
+Customer: 2; Meal: Burger(25TL);Cakes: Strawberry Cake;Price: 43;19/1/2021 11:46
+Customer: 2; Meal: Burger(25TL);Cakes: ;Price: 25;19/1/2021 11:49
+Customer: 2; Meal: Pizza(30TL);Cakes: Chocolate Cake;Price: 50;19/1/2021 11:53
+Customer: 2; Meal: Pizza(30TL);Cakes: Chocolate Cake,Strawberry Cake;Price: 68;19/1/2021 11:56
+Customer: 2; Meal: Burger(25TL);Cakes: Strawberry Cake;Price: 43;19/1/2021 11:59
+Customer: 2; Meal: Burger(25TL);Cakes: Chocolate Cake,Strawberry Cake;Price: 63;19/1/2021 11:1
+Customer: 2; Meal: Pizza(30TL);Cakes: Chocolate Cake,Strawberry Cake;Price: 68;19/1/2021 11:5
+Customer: 2; Meal: Pizza(30TL);Cakes: ;Price: 30;19/1/2021 11:8
+Customer: 2; Meal: Pizza(30TL);Cakes: ;Price: 30;19/1/2021 11:10
+Customer: 2; Meal: Pizza(30TL);Cakes: ;Price: 30;19/1/2021 11:12
+Customer: 2; Meal: Pizza(30TL);Cakes: ;Price: 27.0;19/1/2021 11:13
